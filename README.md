@@ -15,10 +15,13 @@ Learn and practice the double loop of TDD Test application from outside, identif
 # Acceptance criteria
 Statement should have transactions in the following format:
 
+ 
+```
   DATE       | AMOUNT  | BALANCE
   10/04/2014 | 500.00  | 1400.00
   02/04/2014 | -100.00 | 900.00
   01/04/2014 | 1000.00 | 1000.00
+```
 
 # Starting point and constraints
 Start with a class the following structure:
