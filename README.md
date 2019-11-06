@@ -26,14 +26,15 @@ Statement should have transactions in the following format:
 # Starting point and constraints
 Start with a class the following structure:
 ```
-public class Account {
+public class Account
+    {
 
-    public void deposit(int amount);
+        public void Deposit(int amount) { }
 
-    public void withdrawal(int amount);
+        public void Withdrawal(int amount) { }
 
-    public void printStatement();
+        public void PrintStatement() { }
 
-}
+    }
 ```
 You are not allowed to add any other public method to this class.
