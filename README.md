@@ -1,4 +1,3 @@
-# Bank-kata
 
 # Objective
 Learn and practice the double loop of TDD Test application from outside, identifying side effects  
