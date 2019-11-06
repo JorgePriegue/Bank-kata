@@ -25,7 +25,7 @@ Statement should have transactions in the following format:
 
 # Starting point and constraints
 Start with a class the following structure:
-
+```
 public class Account {
 
     public void deposit(int amount);
@@ -35,4 +35,5 @@ public class Account {
     public void printStatement();
 
 }
+```
 You are not allowed to add any other public method to this class.
