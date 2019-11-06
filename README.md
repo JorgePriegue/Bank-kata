@@ -14,13 +14,13 @@ Learn and practice the double loop of TDD Test application from outside, identif
 
 # Acceptance criteria
 Statement should have transactions in the following format:
-
+```
 Given a client makes a deposit of 1000 on 10-01-2012
 And a deposit of 2000 on 13-01-2012
 And a withdrawal of 500 on 14-01-2012
 When they print their bank statement
 Then they would see:
- 
+ ```
 ```
   DATE       | AMOUNT  | BALANCE
   10/04/2014 | 500.00  | 1400.00
