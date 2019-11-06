@@ -3,7 +3,7 @@
 Learn and practice the double loop of TDD Test application from outside, identifying side effects  
 
 
-# Problem description - Bank kata
+# Problem description 
   Create a simple bank application with the following features:
 
  - Deposit into Account
